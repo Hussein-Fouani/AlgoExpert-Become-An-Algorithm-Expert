@@ -1,6 +1,6 @@
 # AlgoExpert Course README
 
-Welcome to the AlgoExpert course repository! This repository contains all the code and explanations for the AlgoExpert coding interview preparation course. Below, you'll find information on how to navigate and utilize this repository effectively.
+Welcome to the AlgoExpert course repository! This repository contains all the code and explanations for Algorithims coding interview preparation course. Below, you'll find information on how to navigate and utilize this repository effectively.
 
 ## About AlgoExpert
 
